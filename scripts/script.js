@@ -10,7 +10,7 @@ var imageText;
 if (daysLeft > 1) {
     imageText = daysLeft + ' days remaining';
 } else if (daysLeft == 1) {
-    imageText = 'One dday left';
+    imageText = 'One day left';
 } else {
     imageText = 'RIP docker cloud';
 }
